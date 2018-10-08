@@ -33,7 +33,7 @@ int main() {
         return 0;
     }
     
-    //anomolies should conform to a specific pattern
+    //anomolies should conform to a specific patterns
     int sz    = anomolies.size(),
         left  = anomolies[0], 
         right = anomolies.back() + 1;
