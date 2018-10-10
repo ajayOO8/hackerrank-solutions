@@ -28,5 +28,6 @@ int main() {
         if(af.find(a)!=af.end()) cout<<"Yes\n";
          else cout<<"No\n";
         }
+  
     return 0;
 }
