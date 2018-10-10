@@ -8,6 +8,7 @@ using namespace std;
 
 int main() {
   int t=0;
+  
     cin>>t;
     int f=0;
     vector<int> b(t);
