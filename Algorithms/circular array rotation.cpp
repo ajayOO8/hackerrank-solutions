@@ -36,6 +36,7 @@ int main(){
    
     int j=k,temp,temp1;
  /*   while(k)
+ 
     { temp=a[0];temp1=a[0];
         for(j=1;j<n;j++)
             {temp=a[j];
